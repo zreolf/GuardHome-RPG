@@ -1,0 +1,1507 @@
+fileFormatVersion: 2
+guid: ab406530c1b932d4fbea4c8cce4d7e8c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1704117493372093546
+    second: Common Atlas_0
+  - first:
+      213: -1915818568877528314
+    second: Common Atlas_1
+  - first:
+      213: -3826872232327305297
+    second: Common Atlas_2
+  - first:
+      213: 7787649607877847614
+    second: Common Atlas_3
+  - first:
+      213: -4805372535058525277
+    second: Common Atlas_4
+  - first:
+      213: -7703323168130774096
+    second: Common Atlas_5
+  - first:
+      213: 4680703493855680252
+    second: Common Atlas_6
+  - first:
+      213: 649885182514215160
+    second: Common Atlas_7
+  - first:
+      213: 4892211503825484193
+    second: Common Atlas_8
+  - first:
+      213: -9124802918044060142
+    second: Common Atlas_9
+  - first:
+      213: 2006710267183554289
+    second: Common Atlas_10
+  - first:
+      213: 469620820054204052
+    second: Common Atlas_11
+  - first:
+      213: -7242880063982623536
+    second: Common Atlas_12
+  - first:
+      213: -994251090328002687
+    second: Common Atlas_13
+  - first:
+      213: 2725954141825256204
+    second: Common Atlas_14
+  - first:
+      213: -2056131589098491167
+    second: Common Atlas_15
+  - first:
+      213: 8931186675351771633
+    second: Common Atlas_16
+  - first:
+      213: -5870329878689285976
+    second: Common Atlas_17
+  - first:
+      213: -3790963566420794557
+    second: Common Atlas_18
+  - first:
+      213: 8290299712745249269
+    second: Common Atlas_19
+  - first:
+      213: -6275105889000501782
+    second: Common Atlas_20
+  - first:
+      213: -1554968320936098635
+    second: Common Atlas_21
+  - first:
+      213: 2139705176988749661
+    second: Common Atlas_22
+  - first:
+      213: 8298094288443382296
+    second: Common Atlas_23
+  - first:
+      213: 3388987331746619512
+    second: Common Atlas_24
+  - first:
+      213: 2232200156408173284
+    second: Common Atlas_25
+  - first:
+      213: 8679285008063017114
+    second: Common Atlas_26
+  - first:
+      213: 6671729118841545456
+    second: Common Atlas_27
+  - first:
+      213: 3792491417244894894
+    second: Common Atlas_28
+  - first:
+      213: -1096837894954125364
+    second: Common Atlas_29
+  - first:
+      213: -3832536475923650557
+    second: Common Atlas_30
+  - first:
+      213: 9022395726087661450
+    second: Common Atlas_31
+  - first:
+      213: 5221835202845939901
+    second: Common Atlas_32
+  - first:
+      213: -8323229437494417406
+    second: Common Atlas_33
+  - first:
+      213: -8958313088191944148
+    second: Common Atlas_34
+  - first:
+      213: 2206046752030925643
+    second: Common Atlas_35
+  - first:
+      213: 1390363567561866181
+    second: Common Atlas_36
+  - first:
+      213: 8052674320486773693
+    second: Common Atlas_37
+  - first:
+      213: 5242434496327904575
+    second: Common Atlas_38
+  - first:
+      213: 8105634063188209423
+    second: Common Atlas_39
+  - first:
+      213: 2854530921088800145
+    second: Common Atlas_40
+  - first:
+      213: 419495799341523924
+    second: Common Atlas_41
+  - first:
+      213: 7176253739732783150
+    second: Common Atlas_42
+  - first:
+      213: -2064705217653859299
+    second: Common Atlas_43
+  - first:
+      213: -5265424037772504711
+    second: Common Atlas_44
+  - first:
+      213: -1131236168059241161
+    second: Common Atlas_45
+  - first:
+      213: -5624165758753182539
+    second: Common Atlas_46
+  - first:
+      213: -8177932945542406969
+    second: Common Atlas_47
+  - first:
+      213: -2715561879189626406
+    second: Common Atlas_48
+  - first:
+      213: 6299146850518408183
+    second: Common Atlas_49
+  - first:
+      213: 2958790750665334226
+    second: Common Atlas_50
+  - first:
+      213: 5007917456595506930
+    second: Common Atlas_51
+  - first:
+      213: 5213575285102853519
+    second: Common Atlas_52
+  - first:
+      213: -8527139775238680209
+    second: Common Atlas_53
+  - first:
+      213: 9193706391303001155
+    second: Common Atlas_54
+  - first:
+      213: 1021149188411249231
+    second: Common Atlas_55
+  - first:
+      213: -5288549522174996824
+    second: Common Atlas_56
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Common Atlas_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 473
+        width: 34
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6409f7d4dd36a710800000000000000
+      internalID: 1704117493372093546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Common Atlas_1
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 448
+        width: 116
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60b25fb7925a965e0800000000000000
+      internalID: -1915818568877528314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Common Atlas_2
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 412
+        width: 109
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa72357faf734eac0800000000000000
+      internalID: -3826872232327305297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Common Atlas_3
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 472
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3ae4c0ce0a431c60800000000000000
+      internalID: 7787649607877847614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Common Atlas_4
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 443
+        width: 48
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a31b6aa323ef4db0800000000000000
+      internalID: -4805372535058525277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Common Atlas_5
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 488
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bb478d746c481590800000000000000
+      internalID: -7703323168130774096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Common Atlas_6
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 439
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf6923a370335f040800000000000000
+      internalID: 4680703493855680252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Common Atlas_7
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 439
+        width: 50
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f8bc88512bd40900800000000000000
+      internalID: 649885182514215160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Common Atlas_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 407
+        width: 64
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a9f8935170a4e340800000000000000
+      internalID: 4892211503825484193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Common Atlas_9
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 406
+        width: 109
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 216398067103e5180800000000000000
+      internalID: -9124802918044060142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Common Atlas_10
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 406
+        width: 93
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1feda922b5449db10800000000000000
+      internalID: 2006710267183554289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Common Atlas_11
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 446
+        width: 60
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49e557ec5ad648600800000000000000
+      internalID: 469620820054204052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Common Atlas_12
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 416
+        width: 56
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d4ae8bc4fe1c7b90800000000000000
+      internalID: -7242880063982623536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Common Atlas_13
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 445
+        width: 80
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18f547fa6e5b332f0800000000000000
+      internalID: -994251090328002687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Common Atlas_14
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 445
+        width: 33
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0bcf7969d884d520800000000000000
+      internalID: 2725954141825256204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Common Atlas_15
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 396
+        width: 149
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e2335ca6372773e0800000000000000
+      internalID: -2056131589098491167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Common Atlas_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 334
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f95b0736f2f1fb70800000000000000
+      internalID: 8931186675351771633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Common Atlas_17
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 334
+        width: 59
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a8fc52e316688ea0800000000000000
+      internalID: -5870329878689285976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Common Atlas_18
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 332
+        width: 72
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3436a03c8bac36bc0800000000000000
+      internalID: -3790963566420794557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Common Atlas_19
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 362
+        width: 93
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f914b33aaf0d0370800000000000000
+      internalID: 8290299712745249269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Common Atlas_20
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 362
+        width: 40
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aedc92ed0785ae8a0800000000000000
+      internalID: -6275105889000501782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Common Atlas_21
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 332
+        width: 71
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b44e99fc84ab6ae0800000000000000
+      internalID: -1554968320936098635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Common Atlas_22
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 332
+        width: 64
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5f8a769582c1bd10800000000000000
+      internalID: 2139705176988749661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Common Atlas_23
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 357
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81a9d574ac0c82370800000000000000
+      internalID: 8298094288443382296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Common Atlas_24
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 366
+        width: 50
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8706e09c50a180f20800000000000000
+      internalID: 3388987331746619512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Common Atlas_25
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 357
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e2d74e273e5afe10800000000000000
+      internalID: 2232200156408173284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Common Atlas_26
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 357
+        width: 34
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9038f1eab3037870800000000000000
+      internalID: 8679285008063017114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Common Atlas_27
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 355
+        width: 150
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f22e26094eb69c50800000000000000
+      internalID: 6671729118841545456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Common Atlas_28
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 347
+        width: 125
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea6899ab9d2a1a430800000000000000
+      internalID: 3792491417244894894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Common Atlas_29
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 285
+        width: 133
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc7721feebf37c0f0800000000000000
+      internalID: -1096837894954125364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Common Atlas_30
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 287
+        width: 133
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 308e7db716810dac0800000000000000
+      internalID: -3832536475923650557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Common Atlas_31
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 287
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8725743c1df53d70800000000000000
+      internalID: 9022395726087661450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Common Atlas_32
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 288
+        width: 37
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db81345537fa77840800000000000000
+      internalID: 5221835202845939901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Common Atlas_33
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 290
+        width: 17
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 208221acce2fd7c80800000000000000
+      internalID: -8323229437494417406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Common Atlas_34
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 282
+        width: 126
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2a269f95bdada380800000000000000
+      internalID: -8958313088191944148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Common Atlas_35
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 282
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4325b435d37d9e10800000000000000
+      internalID: 2206046752030925643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Common Atlas_36
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 263
+        width: 91
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cb7b295c409b4310800000000000000
+      internalID: 1390363567561866181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Common Atlas_37
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 264
+        width: 91
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db3368c21a8d0cf60800000000000000
+      internalID: 8052674320486773693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Common Atlas_38
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 295
+        width: 64
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3de0e7166ed0c840800000000000000
+      internalID: 5242434496327904575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Common Atlas_39
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 281
+        width: 116
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0fa3a72c3ffc7070800000000000000
+      internalID: 8105634063188209423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Common Atlas_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 772
+        height: 283
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 195dddfafb45d9720800000000000000
+      internalID: 2854530921088800145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Common Atlas_41
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 169
+        width: 91
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d32588f43952d500800000000000000
+      internalID: 419495799341523924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Common Atlas_42
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 192
+        width: 91
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2057de31cc279360800000000000000
+      internalID: 7176253739732783150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Common Atlas_43
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 192
+        width: 93
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1c98d73b81b853e0800000000000000
+      internalID: -2064705217653859299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Common Atlas_44
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 172
+        width: 37
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97154cc2cb47de6b0800000000000000
+      internalID: -5265424037772504711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Common Atlas_45
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 148
+        width: 453
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73d31cdd2ba0d40f0800000000000000
+      internalID: -1131236168059241161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Common Atlas_46
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 98
+        width: 91
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bce99f5a03f2f1b0800000000000000
+      internalID: -5624165758753182539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Common Atlas_47
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 98
+        width: 72
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cc1bf78055228e80800000000000000
+      internalID: -8177932945542406969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Common Atlas_48
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 98
+        width: 125
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad16f49cbd2605ad0800000000000000
+      internalID: -2715561879189626406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Common Atlas_49
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 135
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fb9b2dafa01b6750800000000000000
+      internalID: 6299146850518408183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Common Atlas_50
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 98
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dd5e1ae28cbf0920800000000000000
+      internalID: 2958790750665334226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Common Atlas_51
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 0
+        width: 92
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f65ad8c462bf7540800000000000000
+      internalID: 5007917456595506930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Common Atlas_52
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 72
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8dbf4e59175a5840800000000000000
+      internalID: 5213575285102853519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Common Atlas_53
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 0
+        width: 86
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f615bca9d8389a980800000000000000
+      internalID: -8527139775238680209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Common Atlas_54
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 0
+        width: 55
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3449ad6a04b969f70800000000000000
+      internalID: 9193706391303001155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Common Atlas_55
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 28
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f425eedc6c9db2e00800000000000000
+      internalID: 1021149188411249231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Common Atlas_56
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 4
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ae82b1ca3c4b96b0800000000000000
+      internalID: -5288549522174996824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

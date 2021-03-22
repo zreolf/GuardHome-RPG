@@ -1,0 +1,15 @@
+
+{
+   "ConfigInfo":
+   [
+    {
+      "Key": "LogonUIForm",
+      "Value": "UIPrefabs\\LogonUIForm"
+    },
+    {
+      "Key": "MainCityUIForm",
+      "Value": "UIPrefabs\\MainCityUIForm"
+    }
+
+   ]
+}
