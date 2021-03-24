@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Sence/UIFrameWork.unity
+- path: Assets/Sence/StartSence.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0

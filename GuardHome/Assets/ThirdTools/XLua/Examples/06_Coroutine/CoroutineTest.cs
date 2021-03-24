@@ -16,10 +16,10 @@ namespace XLuaTest
         // Update is called once per frame
         void Update()
         {
-            if (luaenv != null)
-            {
-                luaenv.Tick();
-            }
+            //if (luaenv != null)
+            //{
+            //    //luaenv.Tick();
+            //}
         }
 
         void OnDestroy()

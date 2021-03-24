@@ -31,7 +31,7 @@ namespace XLuaTest
             object this[int index] { get; set; }
         }
 
-        [CSharpCallLua]
+        //[CSharpCallLua]
         public delegate ICalc CalcNew(int mult, params string[] args);
 
         private string script = @"

@@ -1,4 +1,4 @@
-﻿/*
+/*
  * Tencent is pleased to support the open source community by making xLua available.
  * Copyright (C) 2016 THL A29 Limited, a Tencent company. All rights reserved.
  * Licensed under the MIT License (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at
@@ -39,12 +39,12 @@ namespace XLuaTest
 
         void Awake()
         {
-            scriptEnv = luaEnv.NewTable();
+            scriptEnv = luaEnv.NewTable();  
 
             // 为每个脚本设置一个独立的环境，可一定程度上防止脚本间全局变量、函数冲突
             LuaTable meta = luaEnv.NewTable();
             meta.Set("__index", luaEnv.Global);
-            scriptEnv.SetMetaTable(meta);
+            scriptEnv.SetMetaTable(meta); //元表
             meta.Dispose();
 
             scriptEnv.Set("self", this);
@@ -55,8 +55,8 @@ namespace XLuaTest
 
             luaEnv.DoString(luaScript.text, "LuaTestScript", scriptEnv);
 
-            Action luaAwake = scriptEnv.Get<Action>("awake");
-            scriptEnv.Get("start", out luaStart);
+            Action luaAwake = scriptEnv.Get<Action>("awake");  //写法1
+            scriptEnv.Get("start", out luaStart);  //写法2
             scriptEnv.Get("update", out luaUpdate);
             scriptEnv.Get("ondestroy", out luaOnDestroy);
 

@@ -282,6 +282,18 @@
     <Reference Include="SyntaxTree.VisualStudio.Unity.Bridge">
       <HintPath>C:/Program Files (x86)/Microsoft Visual Studio Tools for Unity/16.0/Editor/SyntaxTree.VisualStudio.Unity.Bridge.dll</HintPath>
     </Reference>
+    <Reference Include="Google.Protobuf">
+      <HintPath>D:/Users/Administrator/Documents/GitHub/GuardHome-RPG/GuardHome/Assets/Plugins/bin/net45/Google.Protobuf.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Buffers">
+      <HintPath>D:/Users/Administrator/Documents/GitHub/GuardHome-RPG/GuardHome/Assets/Plugins/bin/net45/System.Buffers.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Memory">
+      <HintPath>D:/Users/Administrator/Documents/GitHub/GuardHome-RPG/GuardHome/Assets/Plugins/bin/net45/System.Memory.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Runtime.CompilerServices.Unsafe">
+      <HintPath>D:/Users/Administrator/Documents/GitHub/GuardHome-RPG/GuardHome/Assets/Plugins/bin/net45/System.Runtime.CompilerServices.Unsafe.dll</HintPath>
+    </Reference>
     <Reference Include="nunit.framework">
       <HintPath>D:/Users/Administrator/Documents/GitHub/GuardHome-RPG/GuardHome/Library/PackageCache/com.unity.ext.nunit@1.0.6/net35/unity-custom/nunit.framework.dll</HintPath>
     </Reference>

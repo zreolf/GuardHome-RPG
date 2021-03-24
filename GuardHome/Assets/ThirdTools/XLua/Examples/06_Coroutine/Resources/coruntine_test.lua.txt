@@ -6,7 +6,9 @@
 
 local cs_coroutine = (require 'cs_coroutine')
 
-local a = cs_coroutine.start(function()
+local a ={}
+a.test = function()
+   cs_coroutine.start(function()
     print('coroutine a started')
 
 	coroutine.yield(cs_coroutine.start(function() 
@@ -20,13 +22,12 @@ local a = cs_coroutine.start(function()
 		coroutine.yield(CS.UnityEngine.WaitForSeconds(1))
 		print('i am coroutine a')
 	end
-end)
+  end)
+end
 
-cs_coroutine.start(function()
-    print('stop coroutine a after 5 seconds')
-	coroutine.yield(CS.UnityEngine.WaitForSeconds(5))
-	cs_coroutine.stop(a)
-    print('coroutine a stoped')
-end)
+a.test()
+local tmp = {
+       print('tmp')
+}
 
 

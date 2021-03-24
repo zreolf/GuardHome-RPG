@@ -16,6 +16,7 @@ end
 local recharge = util.async_to_sync(async_recharge)
 -------------------------async_recharge end----------------------------
 local buy = function()
+    print('onclick buy Item')
     message_box.alert("您余额不足，请充值！", "余额提醒")
 	if message_box.confirm("确认充值10元吗？", "确认框") then
 		local r1, r2 = recharge(10)
